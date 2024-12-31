@@ -26,3 +26,9 @@ def scrap_table():
 
 with open("Quran Data.csv", "w") as file:
     file.write(scrap_table())
+
+
+
+
+# Allah has blessed me with a good friend, who's willing to help.
+# And it'll be rude of me to reject.

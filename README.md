@@ -13,6 +13,7 @@ We could connects the dots together to draw Allah's name,
 This interest me. So after scraping wikipedia's lists of all the surah in the Quran and saving it to a CSV, I feed the data to a simple python script that utilize matplotlib to visualize the data.
 
 And my result came,
+
 <img src="https://github.com/oxraphc/Visualizing-The-Quran-Verse-Count/blob/main/visualization_result.png?raw=true"/>
 
 It's arguably beautiful, and all I need to do is to connect the dots togehter.
